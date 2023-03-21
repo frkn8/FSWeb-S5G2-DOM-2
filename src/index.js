@@ -112,6 +112,6 @@ document.addEventListener(
       addlight.style.fontWeight = "bolder";
       addlight.style.color = "blue";
       addlight.textContent =
-        "Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara!";
+        "Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara!";
     }, 5000);
   });
