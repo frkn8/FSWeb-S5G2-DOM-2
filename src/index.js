@@ -106,9 +106,12 @@ document.addEventListener(
   //load
   const addlight = document.querySelector("footer");
   window.addEventListener("load", () => {
-    alert("Bizimle iletişime geç!");
-    addlight.style.fontSize = "2rem";
-    addlight.style.fontWeight = "bolder";
-    addlight.style.color = "blue";
-    addlight.textContent = "Ara!";
+    setTimeout(() => {
+      alert("Bizimle iletişime geç!");
+      addlight.style.fontSize = "2rem";
+      addlight.style.fontWeight = "bolder";
+      addlight.style.color = "blue";
+      addlight.textContent =
+        "Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara! Ara!";
+    }, 5000);
   });
